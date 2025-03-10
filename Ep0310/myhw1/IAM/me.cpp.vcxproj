@@ -24,6 +24,7 @@
     <ProjectGuid>{b4a811d1-bd70-403e-984b-f0994cae6117}</ProjectGuid>
     <RootNamespace>mecpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>IAM</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
