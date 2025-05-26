@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD24753-C0E4-4B0F-AF56-9C7F8EF25A04}|EP01\\EP01.vcxproj|C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CD24753-C0E4-4B0F-AF56-9C7F8EF25A04}|EP01\\EP01.vcxproj|solutionrelative:EP01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD24753-C0E4-4B0F-AF56-9C7F8EF25A04}|EP01\\EP01.vcxproj|C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CD24753-C0E4-4B0F-AF56-9C7F8EF25A04}|EP01\\EP01.vcxproj|solutionrelative:EP01\\Shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\main.cpp",
+              "RelativeDocumentMoniker": "EP01\\main.cpp",
+              "ToolTip": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\main.cpp*",
+              "RelativeToolTip": "EP01\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T02:06:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cpp",
+              "DocumentMoniker": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\Shape.cpp",
+              "RelativeDocumentMoniker": "EP01\\Shape.cpp",
+              "ToolTip": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0512\\EP01\\EP01\\Shape.cpp*",
+              "RelativeToolTip": "EP01\\Shape.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T01:42:57.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

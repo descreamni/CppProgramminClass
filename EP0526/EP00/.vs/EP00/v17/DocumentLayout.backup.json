@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0526\\EP00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931D4324-B93E-43C8-BD5C-138188B137C7}|EP00\\EP00.vcxproj|C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0526\\EP00\\EP00\\iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931D4324-B93E-43C8-BD5C-138188B137C7}|EP00\\EP00.vcxproj|solutionrelative:EP00\\iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iterator.cpp",
+              "DocumentMoniker": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0526\\EP00\\EP00\\iterator.cpp",
+              "RelativeDocumentMoniker": "EP00\\iterator.cpp",
+              "ToolTip": "C:\\Users\\626-5\\Documents\\GithubRepository\\CppProgramminClass\\EP0526\\EP00\\EP00\\iterator.cpp",
+              "RelativeToolTip": "EP00\\iterator.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T00:20:40.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
